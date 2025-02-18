@@ -84,7 +84,7 @@ export default function Home() {
 
       {/* ToBeContinueページ */}
       <section>
-        <h2>ToBeContinue</h2>
+        <h2>coming soon</h2>
         <div className="img-wrap">
           <div className="img"></div>
         </div>
